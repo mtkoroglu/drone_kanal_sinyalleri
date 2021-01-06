@@ -7,3 +7,6 @@ Alternatif olarak Windows'da Aygıt Yöneticisi'ne gidip orada Bağlantı Noktal
 Yukarıda Code yazan yeşil bağlantıya tıklarsanız bu sayfadaki kodları zip dosyası halinde bilgisayarınıza indirebilirsiniz. </p> </br></br>
 # Videoyu aşağıdaki bağlantıdan izleyebilirsiniz
 [![IMAGE ALT TEXT HERE](thumbnail.jpg)](https://www.youtube.com/watch?v=E3qCBA7dHkc&list=PLyTg8DU4z8EtaXMGZk96NWlSuimbTcoSp&index=2)</br></br>
+
+# Videoyu aşağıdaki resime tıklayarak izleyebilirsiniz 
+[![IMAGE ALT TEXT HERE](thumbnail.jpg)](https://www.youtube.com/watch?v=FZUj0kXy1hs)</br></br>
